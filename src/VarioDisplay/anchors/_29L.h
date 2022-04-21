@@ -1,0 +1,30 @@
+#ifndef ANCHORS_29L_H
+#define ANCHORS_29L_H
+
+// boot screen
+#define ANC_BOOT_LOGO_X 15
+#define ANC_BOOT_LOGO_Y 26
+#define ANC_BOOT_LOGO_W 94
+#define ANC_BOOT_LOGO_H 74
+
+#define ANC_BOOT_VERSION_X 30
+#define ANC_BOOT_VERSION_Y 130
+
+#define ANC_BOOT_AUTHOR_X 30
+#define ANC_BOOT_AUTHOR_Y 150
+
+#define ANC_BOOT_BETA_X 30
+#define ANC_BOOT_BETA_Y 170
+
+#define ANC_BOOT_DATE_X 15
+#define ANC_BOOT_DATE_Y 190
+
+#define ANC_BOOT_GNUVARIO_X 5
+#define ANC_BOOT_GNUVARIO_Y 230
+
+#define ANC_BOOT_VOLT_X 10
+#define ANC_BOOT_VOLT_Y 270
+// END boot screen
+
+
+#endif //ANCHORS_29L_H

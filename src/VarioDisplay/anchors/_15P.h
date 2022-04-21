@@ -1,0 +1,71 @@
+#ifndef ANCHORS_15P_H
+#define ANCHORS_15P_H
+
+// boot screen
+#define FONT_BOOT 12
+
+#define ANC_BOOT_LOGO_X 0
+#define ANC_BOOT_LOGO_Y 10
+#define ANC_BOOT_LOGO_W 102
+#define ANC_BOOT_LOGO_H 74
+
+#define ANC_BOOT_VERSION_X 105
+#define ANC_BOOT_VERSION_Y 30
+
+#define ANC_BOOT_AUTHOR_X 105
+#define ANC_BOOT_AUTHOR_Y 50
+
+#define ANC_BOOT_BETA_X 105
+#define ANC_BOOT_BETA_Y 70
+
+#define ANC_BOOT_DATE_X 25
+#define ANC_BOOT_DATE_Y 110
+
+#define ANC_BOOT_GNUVARIO_X 20
+#define ANC_BOOT_GNUVARIO_Y 150
+
+#define ANC_BOOT_VOLT_X 25
+#define ANC_BOOT_VOLT_Y 190
+// END boot screen
+
+// WIFI screen
+
+#define FONT_WIFI 12
+
+#define ANC_WIFI_TITLE_X 40
+#define ANC_WIFI_TITLE_Y 40
+
+#define ANC_WIFI_CONNECT_X 5
+#define ANC_WIFI_CONNECT_Y 80
+
+#define ANC_WIFI_CONNECTED_X 5
+#define ANC_WIFI_CONNECTED_Y 120
+
+#define ANC_WIFI_SSID_X 5
+#define ANC_WIFI_SSID_Y 140
+
+#define ANC_WIFI_IP_X 5
+#define ANC_WIFI_IP_Y 160
+
+// END  WIFI screen
+
+// REBOOT screen
+#define FONT_REBOOT 12
+
+#define ANC_REBOOT_LOGO_X 0
+#define ANC_REBOOT_LOGO_Y 10
+#define ANC_REBOOT_LOGO_W 102
+#define ANC_REBOOT_LOGO_H 74
+
+#define ANC_REBOOT_NAME_X 95
+#define ANC_REBOOT_NAME_Y 80
+
+#define ANC_REBOOT_MSG_X 20
+#define ANC_REBOOT_MSG_Y 140
+
+#define ANC_REBOOT_ONGOING_X 40
+#define ANC_REBOOT_ONGOING_Y 170
+
+// END screen
+
+#endif //ANCHORS_15P_H

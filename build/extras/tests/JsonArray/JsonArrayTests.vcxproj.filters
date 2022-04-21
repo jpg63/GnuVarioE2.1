@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\copyArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\createNested.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\equals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\get.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\isNull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\memoryUsage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\nesting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\remove.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\size.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\std_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\subscript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\undefined.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonArray\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAD8E9C-4E57-3425-ACA8-A784182A2892}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

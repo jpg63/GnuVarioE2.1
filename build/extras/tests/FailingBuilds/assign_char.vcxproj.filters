@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\FailingBuilds\assign_char.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\FailingBuilds\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAD8E9C-4E57-3425-ACA8-A784182A2892}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

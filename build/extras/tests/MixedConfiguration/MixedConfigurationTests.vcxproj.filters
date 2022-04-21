@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\cpp11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\decode_unicode_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\decode_unicode_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_alignment_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_alignment_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_comments_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_comments_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_infinity_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_infinity_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_nan_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_nan_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_progmem_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_string_deduplication_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\enable_string_deduplication_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\use_double_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\use_double_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\use_long_long_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\use_long_long_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\MixedConfiguration\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAD8E9C-4E57-3425-ACA8-A784182A2892}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\as.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\clear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\compare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\containsKey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\copy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\converters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\createNested.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\is.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\isnull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\memoryUsage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\nesting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\or.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\overflow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\remove.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\set.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\subscript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\undefined.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonVariant\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAD8E9C-4E57-3425-ACA8-A784182A2892}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

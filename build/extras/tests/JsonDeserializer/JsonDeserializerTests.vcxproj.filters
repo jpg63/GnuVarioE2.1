@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\array_static.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\DeserializationError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\incomplete_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\input_types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\invalid_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\nestingLimit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\object_static.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jean-philippe.goi\Documents\PlatformIO\Projects\ESP32_SD_Test_Pins\lib\ArduinoJson\extras\tests\JsonDeserializer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAD8E9C-4E57-3425-ACA8-A784182A2892}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

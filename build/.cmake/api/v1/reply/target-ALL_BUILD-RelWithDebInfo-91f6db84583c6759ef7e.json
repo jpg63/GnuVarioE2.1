@@ -1,0 +1,84 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "IntegrationTests::@1e9e01ae4cb76e3f6407"
+		},
+		{
+			"id" : "catch::@1e99ca254c712d4bb915"
+		},
+		{
+			"id" : "MemoryPoolTests::@21e24ec2e873d8f9d666"
+		},
+		{
+			"id" : "MiscTests::@bfcd1cdb6e7ee13ffd26"
+		},
+		{
+			"id" : "JsonArrayTests::@7d80058f05e98e9aa45b"
+		},
+		{
+			"id" : "MixedConfigurationTests::@fd8a8f447df697b51435"
+		},
+		{
+			"id" : "JsonSerializerTests::@1fa692a4596e3653a93d"
+		},
+		{
+			"id" : "JsonVariantTests::@5458f6bd6af2db31defd"
+		},
+		{
+			"id" : "JsonDeserializerTests::@f20fa46862e26f1ab5a6"
+		},
+		{
+			"id" : "JsonDocumentTests::@981278c3bb5adff7906a"
+		},
+		{
+			"id" : "JsonObjectTests::@96552b8243e33514b4ad"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "TextFormatterTests::@2029596dfb27c8b276de"
+		},
+		{
+			"id" : "MsgPackDeserializerTests::@2196e807ccb1a41007fe"
+		},
+		{
+			"id" : "json_reproducer::@3ef17ccf3523cf08b021"
+		},
+		{
+			"id" : "MsgPackSerializerTests::@5d5c3f1c24d34824a877"
+		},
+		{
+			"id" : "NumbersTests::@cda9ee1f919a43f6f49f"
+		},
+		{
+			"id" : "msgpack_reproducer::@3ef17ccf3523cf08b021"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
